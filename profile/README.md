@@ -34,7 +34,7 @@ Explora nuestros proyectos y contribuye a lo que más te apasione:
 
 ## Código de Conducta
 
-Para que todos podamos trabajar juntos de manera respetuosa y constructiva, seguimos un código de conducta claro. Lee el [Código de Conducta de la Comunidad AxoPunk](https://github.com/axopunk/axopunk/blob/main/CODE_OF_CONDUCT.md) y asegúrate de seguirlo al participar.
+Para que todos podamos trabajar juntos de manera respetuosa y constructiva, seguimos un código de conducta claro. Lee el [Código de Conducta de la Comunidad AxoPunk](https://github.com/AxoPunk/.github/blob/main/profile/Code%20of%20Conduct.md) y asegúrate de seguirlo al participar.
 
 ## Conéctate con nosotros
 
